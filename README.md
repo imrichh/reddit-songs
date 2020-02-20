@@ -1,5 +1,4 @@
-# Top 100 songs from r/AskReddit 
-"Which song has been so powerful and moving that you cried the first time you heard it?"
+# Top 100 songs from r/AskReddit "Which song has been so powerful and moving that you cried the first time you heard it?"
 
 Source: https://www.reddit.com/r/AskReddit/comments/f6qlck/which_song_has_been_so_powerful_and_moving_that/
 
@@ -24,10 +23,16 @@ https://open.spotify.com/playlist/6dY655g2m87EDB5aoIap4o
 ### Youtube - 100% found
 https://www.youtube.com/playlist?list=PLnkC6zQVmUeouL7hYb96jFUbLpSDXmOnJ
 
+## Reddit post text
+Made the playlists:
+Spotify (76%): https://open.spotify.com/playlist/6dY655g2m87EDB5aoIap4o
+Youtube (100%): https://www.youtube.com/playlist?list=PLnkC6zQVmUeouL7hYb96jFUbLpSDXmOnJ
+
+For nerds, here is github repo with the program that did it. Manual 100 songs scrape + 27 lines of Python.
 
 ## Process and time
 Manually ather songs 9min
 Code 25min
 Importing ~10min
 Write Readme.md 5min
-Total: 40min
+Total 40min
