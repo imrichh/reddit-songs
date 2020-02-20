@@ -10,7 +10,9 @@ beautifulsoup4
 
 ## Usage
 ### Scraper / Playlist builder
-python3 playlist-builder.py
+`git clone https://github.com/imrichvalach/reddit-songs.git`
+`cd reddit-songs`
+`python3 playlist-builder.py`
 
 ### Create playlist in Spotify and Youtube
 Textfile to playlist
